@@ -4,7 +4,7 @@ Sample programs for communicating to SpeechServerForUnitychan.
 
 # Making a docker image 
 ```
-cd 
+cd ssfu_client
 docker build -t ssfu_client .
 ```
 
